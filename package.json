@@ -1,0 +1,23 @@
+{
+  "name": "npm_twitbot_fc",
+  "version": "1.0.0",
+  "description": "NPM for twitterbot managed by Faizaan Chishtie",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/FaizChishtie/TwitterBot.git"
+  },
+  "keywords": [
+    "masteq",
+    "twit_node"
+  ],
+  "author": "Faizaan Chishtie",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/FaizChishtie/TwitterBot/issues"
+  },
+  "homepage": "https://github.com/FaizChishtie/TwitterBot#readme"
+}
